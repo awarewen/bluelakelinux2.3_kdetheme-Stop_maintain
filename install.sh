@@ -10,3 +10,4 @@ read
   cp -r plasma/ ~/.local/share
   cp -r wallpapers ~/.local/share
   sudo cp -r Flat-Remix-Green /usr/share/icons
+  sudo cp -r sddm/bluelake /usr/share/sddm/themes/
