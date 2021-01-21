@@ -22,6 +22,6 @@ It`s APACHE2
 
 ##screenshots##
 
-![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/login.png)
+![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/master/screenshot/login.png)
 
-![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
+![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/master/screenshot/fl.png)
