@@ -2,7 +2,7 @@ Produced(integrated) by RuzhFltd
 
 ##This is a default kde theme for kde plasma5 in the coming bluelakelinux server/pc##
 
-##copyright information##
+##copyright(left?) information##
 
 Highly based on https://github.com/yeyushengfan258/We10XOS-kde
 
@@ -18,10 +18,8 @@ It`s APACHE2
 1 > extract the tar.gz[remember to download or clone it(dont know how to clone it ? bing.com)]
 2 > cd into the right directory
 3 > bash install.sh
-4 > read readme info then start installation
+4 > After reading the  readme file , you can start the installation
 
 ##screenshots##
 
-![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/master/screenshot/login.png)
-
-![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/master/screenshot/fl.png)
+![image](https://github.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
