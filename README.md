@@ -22,4 +22,4 @@ It`s APACHE2
 
 ## screenshots
 
-![image](https://github.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
+![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
