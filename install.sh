@@ -5,7 +5,7 @@ echo "it is highly based on We10Xdark theme on github by yeyushengfan258"
 echo "press any key to copy file into your system"
 echo "-----------"
 echo " About root require:For install sddm theme , icons to your system"
-read
+read pause
   mkdir ~/rupm
   mkdir ~/rupm/pkgs
   cp -r  aurorae/ ~/.local/share
