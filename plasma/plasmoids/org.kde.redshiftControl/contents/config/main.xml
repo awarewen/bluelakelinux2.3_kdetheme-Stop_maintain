@@ -19,7 +19,7 @@
             <default>0.05</default>
         </entry>
         <entry name="useDefaultIcons" type="Bool">
-            <default>true</default>
+            <default>false</default>
         </entry>
         <entry name="iconActive" type="String">
             <default>redshift-status-on</default>
