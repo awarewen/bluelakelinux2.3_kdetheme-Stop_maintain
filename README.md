@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/master/co
 
 It`s APACHE2
 
+Others are in release page...
 
 ## Installation
 1 > extract the tar.gz[remember to download or clone it(dont know how to clone it ? bing.com)]<br>
@@ -22,4 +23,4 @@ It`s APACHE2
 
 ## screenshots
 
-![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
+![image](https://github.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
