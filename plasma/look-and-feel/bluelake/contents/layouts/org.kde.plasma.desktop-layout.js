@@ -108,7 +108,12 @@ var layout = {
                             "noWindowText": "藍鯉鎮作業系統主界面",
                             "noWindowType": "text",
                             "showApplicationIcon": "true"
-                        }
+                         },
+                         "/General": {
+                            "noWindowText": "藍鯉鎮作業系統主界面",
+                            "noWindowType": "text",
+                            "showApplicationIcon": "true"
+                         }
                     },
                     "plugin": "org.communia.apptitle"
                 }
