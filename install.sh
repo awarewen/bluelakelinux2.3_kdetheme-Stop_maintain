@@ -3,6 +3,7 @@
         #flash_plasma_theme#
             echo -e "\033[32mWelcom\033[0m \033[34musing\033[0m \033[31mbluelakelinux\033[0m \033[33mflash\033[0m \033[35mscript\033[0m"
             echo "-------------Plasma Theme Installation--------------"
+            echo -e "\033[31mYOU GOT TO INSTALL REDSHIFT AND KVANTUM MANAGER ON YOUR PC\033[0m"
             echo "Now we're going to install bluelake kde theme"
             echo "want to install it into your system , Press enter"
             echo " Or Ctrl+c to install next part"
