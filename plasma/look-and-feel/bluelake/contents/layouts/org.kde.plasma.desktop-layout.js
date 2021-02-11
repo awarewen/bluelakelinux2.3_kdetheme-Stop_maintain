@@ -49,7 +49,7 @@ var layout = {
                             "DialogHeight": "540",
                             "DialogWidth": "720"
                         },
-                        "/Configuration/General": {
+                            "/General": {
                             "fullscreen": "true",
                             "icon": "bluelake",
                             "searchFieldFollowsTheme": "true",
@@ -104,11 +104,6 @@ var layout = {
                             "DialogHeight": "540",
                             "DialogWidth": "720"
                         },
-                        "/Configuration/General": {
-                            "noWindowText": "藍鯉鎮作業系統主界面",
-                            "noWindowType": "text",
-                            "showApplicationIcon": "true"
-                         },
                          "/General": {
                             "noWindowText": "藍鯉鎮作業系統主界面",
                             "noWindowType": "text",
