@@ -30,7 +30,7 @@
                 cp -r plasma/ ~/.local/share
                 cp -r wallpapers ~/.local/share
                 cp -r Kvantum ~/.config
-                sudo cp -r Flat-Remix-Green /usr/share/icons
+                sudo cp -r Flat-Remix-Blue /usr/share/icons
                 sudo cp -r sddm/bluelake /usr/share/sddm/themes/
                 plasmapkg2 --type kwinscript -i scripts/kwin-script-tiling/
                 kpackagetool5 -i plasma/look-and-feel/bluelake/
