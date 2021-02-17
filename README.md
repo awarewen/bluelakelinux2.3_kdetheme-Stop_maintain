@@ -1,3 +1,7 @@
+## NOTICE
+
+From now on , there will no newer release released,just clone into local dirs and install it
+
 # Produced(integrated) by RuzhFltd
 
 ## This is a default kde theme for kde plasma5 in the coming bluelakelinux server/pc
@@ -16,7 +20,7 @@ It`s APACHE2
 Others are in release page...
 
 ## Installation
-1 > extract the tar.gz[remember to download or clone it(dont know how to clone it ? bing.com)]<br>
+1 > git clone it<br>
 2 > cd into the right directory<br>
 3 > bash install.sh<br>
 4 > After reading the  readme file , you can start the installation<br>
