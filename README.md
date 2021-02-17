@@ -21,6 +21,9 @@ Others are in release page...
 3 > bash install.sh<br>
 4 > After reading the  readme file , you can start the installation<br>
 
+## Notice
+WHen you switch to light theme ,dont forget the kvantum themes, it cant switch automatic......
+
 ## screenshots
 
 ![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
