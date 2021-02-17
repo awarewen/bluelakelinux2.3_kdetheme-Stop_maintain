@@ -17,7 +17,7 @@ Animation=1
 [Layout]
 BorderLeft=1
 BorderRight=1
-BorderBottom=12
+BorderBottom=2
 ButtonWidth=26
 ButtonHeight=26
 ButtonSpacing=10
@@ -26,7 +26,7 @@ ButtonMarginLeft=0
 ButtonMarginRight=0
 ExplicitButtonSpacer=0
 PaddingTop=35
-PaddingBottom=95
+PaddingBottom=14
 PaddingRight=75
 PaddingLeft=75
 TitleEdgeTop=4
