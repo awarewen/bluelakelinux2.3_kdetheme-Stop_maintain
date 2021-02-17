@@ -66,7 +66,7 @@
 		<!-- Colors -->
 		<!-- Use empty string instead of color type so that we can use default colors from the color scheme. -->
 		<entry name="defaultTileColor" type="string">
-			<default></default>
+			<default>#00000000</default>
 		</entry>
 		<entry name="defaultTileGradient" type="bool">
 			<default>false</default>
