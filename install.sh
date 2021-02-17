@@ -5,6 +5,7 @@
             echo "-------------Plasma Theme Installation--------------"
             echo -e "\033[31mYOU GOT TO INSTALL REDSHIFT AND KVANTUM MANAGER ON YOUR PC\033[0m"
             echo "Now we're going to install bluelake kde theme"
+            echo "WARNING! YOU GOT A DARK AND LIGHT THEME , BY DEFAULT IS THE DARK ONE"
             echo "want to install it into your system , Press enter"
             echo " Or Ctrl+c to install next part"
             echo "----------------------------------------------------"
@@ -34,6 +35,7 @@
                 sudo cp -r sddm/bluelake /usr/share/sddm/themes/
                 plasmapkg2 --type kwinscript -i scripts/kwin-script-tiling/
                 kpackagetool5 -i plasma/look-and-feel/bluelake/
+                kpackagetool5 -i plasma/look-and-feel/bluelakelight/
                 #core_end#
 
                 #finish_up#
