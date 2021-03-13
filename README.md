@@ -21,7 +21,7 @@ Others are in release page...
 
 ## Installation
 ```
-$ git clone https://github.com/happyeggchen/bluelakelinux_kdetheme.git
+$ git clone https://gitee.com/happyeggchen/bluelakelinux_kdetheme.git
 $ cd bluelakelinux_kdetheme
 $ bash install.sh
 ```
