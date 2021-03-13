@@ -20,10 +20,11 @@ It`s APACHE2
 Others are in release page...
 
 ## Installation
-1 > git clone it<br>
-2 > cd into the right directory<br>
-3 > bash install.sh<br>
-4 > After reading the  readme file , you can start the installation<br>
+```
+$ git clone https://github.com/happyeggchen/bluelakelinux_kdetheme.git
+$ cd bluelakelinux_kdetheme
+$ bash install.sh
+```
 
 ## Notice
 WHen you switch to light theme ,dont forget the kvantum themes, it cant switch automatic......
