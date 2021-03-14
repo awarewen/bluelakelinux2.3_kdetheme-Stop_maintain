@@ -1,3 +1,10 @@
+## Todo list
+
+1 > Adapt for plasma  5.21 [ Doing ] [>>>>>>>>---------] <br>
+2 > Pushing Bluelakelinux bluescreen into free version [ Doing ] [>-------------] <br>
+3 > Redesign the UX [ round , flat and more visible ] [ Preparing ] [--------------] <br>
+
+
 ## NOTICE
 
 From now on , there will no newer release released,just clone into local dirs and install it
