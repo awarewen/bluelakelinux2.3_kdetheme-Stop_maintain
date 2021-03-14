@@ -1,4 +1,4 @@
-## NOTICE
+ ## NOTICE
 
 From now on , there will no newer release released,just clone into local dirs and install it
 
@@ -21,7 +21,7 @@ Others are in release page...
 
 ## Installation
 ```
-$ git clone https://github.com/happyeggchen/bluelakelinux_kdetheme.git
+$ git clone https://gitee.com/happyeggchen/bluelakelinux_kdetheme.git
 $ cd bluelakelinux_kdetheme
 $ bash install.sh
 ```
@@ -31,4 +31,4 @@ WHen you switch to light theme ,dont forget the kvantum themes, it cant switch a
 
 ## screenshots
 
-![image](https://github.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
+![image](https://gitee.com/happyeggchen/bluelakelinux_kdetheme/raw/master/screenshot/fl.png)
