@@ -14,7 +14,6 @@
             echo "want to install it into your system , type y to install"
             echo " Or n to install next part"
             echo "----------------------------------------------------"
-            read pause
 
 #confirm system#
 
